@@ -43,6 +43,8 @@ WHERE cond = 2;
 
 ### Results/Findings
 
+Dashboards URL: https://public.tableau.com/app/profile/doan.anh7339/viz/RFMAnalysisDash2/SalesDashboard1#1
+
 The analysis results are summarized as follows:
 
 The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
