@@ -43,7 +43,11 @@ WHERE cond = 2;
 
 ### Results/Findings
 
-Dashboards URL: https://public.tableau.com/app/profile/doan.anh7339/viz/RFMAnalysisDash2/SalesDashboard1#1
+Dashboards URL:
+
+https://public.tableau.com/app/profile/doan.anh7339/viz/RFMAnalysisDash/SalesDashboard1
+
+https://public.tableau.com/app/profile/doan.anh7339/viz/RFMAnalysisDash2/SalesDashboard1#1
 
 The analysis results are summarized as follows:
 
